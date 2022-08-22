@@ -84,3 +84,5 @@ gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
 
 
 
+
+gem "tailwindcss-rails", "~> 2.0"
